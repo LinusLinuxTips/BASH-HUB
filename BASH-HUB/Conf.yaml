@@ -1,0 +1,86 @@
+# this is a config file for BASH-HUB
+# you can here change what the commands in the hub should do and what name they have 
+#  Example. the command1 changes what it does when you type 1
+# When you change whats after
+#name: it changes what theres written after ?)
+# and after
+#command: you can change wich command it should run
+# remeber that after name: or command: there have to be a space beofore you type. Else it will not work.
+#
+# Here are some commands that do diffrent stuff
+#
+#  Running Flatpak programs with flatpak ID like this 
+## flatpak run EX.EXAMPLE.EXAMPLE
+# or you can add a link to a website and open it in default browser with this
+## xdg-open https://www.example.com/
+
+
+# here are an Ex of what it could look like in the Conf file and what it is going to do 
+
+#command1:
+#  name: Netflix
+#  command: xdg-open https://www.netflix.com/browse
+
+
+
+START:
+  command1: 
+    name: 
+    command: firefox
+  command2: 
+    name: 
+    command: 
+  command3: 
+    name: 
+    command: 
+  command4:
+    name: 
+    command: 
+  command5:   
+    name: 
+    command: 
+  command6: 
+    name: 
+    command: 
+  command7: 
+    name: 
+    command: 
+  command8: 
+    name: 
+    command: 
+  command9: 
+    name: 
+    command: 
+  command10: 
+    name: 
+    command: 
+  command11:
+    name: 
+    command: 
+  command12:
+    name:
+    command:
+  command13:
+    name:
+    command:
+  command14:
+    name:
+    command:
+  command15:
+    name:
+    command:
+  command16:
+    name:
+    command:
+  command17:
+    name:
+    command:
+  command18:
+    name:
+    command:
+  command19:
+    name:
+    command:
+  command20:
+    name: 
+    command: 
